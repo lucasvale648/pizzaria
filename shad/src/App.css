@@ -1,0 +1,82 @@
+@font-face {
+  font-family: 'Pizza';
+  src: url('./src/assets/fonts/Pizza.ttf') format('truetype'),
+}
+body {
+    background: linear-gradient(to right, #FF3E3E, #FF9F00, #FFD700);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    color: white;
+    padding: 20px
+
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 60px;
+  margin-left: 30px;
+}
+
+
+.Title{
+  display: flex;
+  flex-direction: row;
+  font-family: 'Pizza';
+  font-size: 48px;
+  font-weight: bold;
+  -webkit-text-stroke: 3px black;
+  color: white;
+}
+
+.Button {
+  display: flex;
+  flex-direction: row;
+  font-family: 'Pizza';
+  font-size: 36px;
+  font-weight: bold;
+  gap: 20px
+}
+.Form {
+  margin-left: 30px;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+section {
+  height: 800px;
+  width:60%;
+}
+.PizzaImg {
+  width: 90%;
+  height: 80%;
+}
+.Cardo{
+  opacity: 0.8;
+  border: 1px solid #000;
+}
+.Cardi {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 300px;
+  width: 100%;
+  padding: 2px;
+}
+.Imagem{
+  margin-top: -400px;
+  height: 300px;
+  margin-left: -20px;
+
+}
+footer {
+  height: 188px;
+  margin-top: -200px;
+}

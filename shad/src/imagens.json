@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nome": "Pizza Margherita", "url": "./src/assets/img/pizza1.png", "preco": 15.99 },
+  { "id": 2, "nome": "Pizza Pepperoni", "url": "./src/assets/img/pizza2.png", "preco": 18.99 },
+  { "id": 3, "nome": "Pizza Quatro Queijos", "url": "./src/assets/img/pizza3.png", "preco": 20.99 }
+]
