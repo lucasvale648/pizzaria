@@ -1,5 +1,5 @@
 import './App.css'
-import React, { useState } from 'react';
+import{ useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faHome, faSearch } from '@fortawesome/free-solid-svg-icons';
 import { Card, CardContent } from "@/components/ui/card";
