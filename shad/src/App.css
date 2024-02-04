@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Pizza';
-  src: url('./src/assets/fonts/Pizza.ttf') format('truetype'),
+  src: url('./public/fonts/Pizza.ttf') format('truetype'),
 }
 body {
     background: linear-gradient(to right, #FF3E3E, #FF9F00, #FFD700);
