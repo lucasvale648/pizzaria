@@ -69,7 +69,7 @@ function App() {
 
         </section>
         <article>
-          <img className="Imagem" src="/src/public/pizzaiolo.png" alt="pizzaiolo" />
+          <img className="Imagem" src="src/public/pizzaiolo.png" alt="pizzaiolo" />
         </article>
       </main>
       <footer>
